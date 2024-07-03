@@ -15,7 +15,7 @@ Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没�
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql&theme=light&perline=5)](https://skillicons.dev)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
@@ -26,7 +26,7 @@ Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没�
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,redis,spring,vue,idea,nginx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,redis,spring,vue,idea,nginx&theme=light&perline=5)](https://skillicons.dev)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
@@ -37,7 +37,7 @@ Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没�
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![My Skills](https://skillicons.dev/icons?i=ae,github,ps,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,github,ps,&theme=light&perline=5)](https://skillicons.dev)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
