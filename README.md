@@ -26,7 +26,7 @@ Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没�
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,redis,spring,vue,idea,nginx&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,redis,spring,vue,idea,nginx,git,github&theme=light&perline=5)](https://skillicons.dev)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
