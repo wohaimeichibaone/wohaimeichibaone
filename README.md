@@ -15,7 +15,7 @@ Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没�
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,npm,redis,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=light)](https://skillicons.dev)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
