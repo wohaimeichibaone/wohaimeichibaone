@@ -1,5 +1,7 @@
 Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没吃饱呢）. 👋
 
+🤡 About Me.
+
 </div>
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
