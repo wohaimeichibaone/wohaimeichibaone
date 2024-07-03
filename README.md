@@ -37,7 +37,7 @@ Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没�
 <!-- interested:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-[![My Skills](https://skillicons.dev/icons?i=ae,github,ps,&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ps,&theme=light&perline=5)](https://skillicons.dev)
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
