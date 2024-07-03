@@ -9,17 +9,8 @@ Hi there, I'm [wohaimeichibaone](https://www.wohaimeichibaone.com)（我还没�
   </picture>
 </div>
 
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=wohaimeichibaone&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/> 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
 
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 #### Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
